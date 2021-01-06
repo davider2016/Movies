@@ -1,56 +1,11 @@
-世界新闻,#genre#
-Airrang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Aljazeera News,https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-Aljazeera News,https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
-Australia Channel,https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-BBC News,https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
-BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-BBC News,http://178.49.250.78:81/udp/239.1.20.36:1234
-BBC News,http://84.47.174.140:80/hlsl/2/BBC_World/04.m3u8
-Bloomberg,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-Bloomberg,https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
-Bloomberg,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-CGTN,http://live.cgtn.com/1000/prog_index.m3u8
-CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-CPAC Canada,https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1//Assets_1607262207060/Layer3_master.m3u8
-Euronews,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
-France 24,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-France 24,http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
-Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-N 24(Japanese),https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-NHK English,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-RT News,https://rt-news-gd.secure2.footprint.net/1103.m3u8
-Sky News Extra1,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-Sky News Extra2,https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-Sky News Extra3,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-Sky News,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+FC2系列,#genre#
+18岁耳环A,https://www48.ff-01.com/token=CUaeDKs4xcEa58M8Y_4zKg/1609924863/218.102.0.0/82/8/96/4df9ee87640477d935fa9e7d01c0f968-720p.mp4
 
-美国新闻,#genre#
-ABC News,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
-ABC News,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-CBN News,https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_1200_av-b.m3u8?sd=10&rebase=on
-CBS News,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-CBS News,https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-CNN SD,http://185.47.188.226/live/cnn/playlist.m3u8
-CNN SD,http://218.202.220.2:5000/nn_live.ts?id=CNN
-CNN HD,http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-CNN HD,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=70dae538-3b60-40aa-a14a-504f073abcf6&clientModelNumber=na&deviceDNT=false&deviceId=70dae538-3b60-40aa-a14a-504f073abcf6&deviceLat=34.0729&deviceLon=-118.2606&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=87.0.4280.88&marketingRegion=US&serverSideAds=true&sessionID=58fefe78-4853-11eb-ae86-0242ac110002&sid=58fefe78-4853-11eb-ae86-0242ac110002&userId=
-CNN HD,https://us.shidurlive.com/app/15757/chunklist.m3u8?h=ch4g4gNd5QeOha0AUxRpvw&e=1608987944
-C-SPAN 1,https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/index_50_av-p.m3u8?sd=10&rebase=on
-C-SPAN 2,https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
-C-SPAN 3,https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
-Fox News,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-Fox News HD,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/734?checkedby:iptvcat.com
-Fox News HD,http://watch-myjokertv.xyz:8080/Pepsijr/Makaveli1983/462
-Fox News HD,https://us.shidurlive.com/app/15439/chunklist.m3u8?h=8m_jcYiR7a0slYvnZlxcmg&e=1608988069
-MSNBC HD,http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596
-MSNBC HD,https://us.shidurlive.com/app/15441/chunklist.m3u8?h=gz9hexCWSzmnKSSJN0eGlA&e=1608987809
-NBC LX,https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
-NBC News,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-NBC News,https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-NBC News,https://nbcnewshls-i.akamaihd.net/hls/live/1005206/nnn_live2/index.m3u8
-Newsmax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8#http://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_3192_av-p.m3u8
-PBS,https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
-PBS,https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
-PBS,https://kera-flash.streamguys1.com/live/eventStream/playlist.m3u8
 
+
+安藤,#genre#
+HND516,https://www1298.ff-03.com/token=pUSppleaOxJxHPmUDxhlOw/1609921089/218.102.0.0/5/f/4e/3de80bfa61f08040c9c9a26ec366d4ef-720p.mp4
+HND516,https://www2.sbvideocdn.com/hls/,tysxfbv4zs66j6cdabcbthajgunxyxjmrve275zect2ta342ip7fw4pzpyta,.urlset/master.m3u8?xxx=123
+HND516,https://861495961.tapecontent.net/radosgw/7kDO8l3ZZMhJr7/2U_s1o5z9YaZAwWTRnebpAdk5rMQy1cn0csnRZ95e94NBTrqONYT8LMshyhTwB2FSu3n5N8Y3NXhiX542ZVvIp9SQAOd593x7dwFKSEGpuNoPo1DfepQ9R0Di_jiV-CIQJm8rF6q4BXVTsD9FIEfPBIBYSBd9GyHvz0j9h0daHYzuYGwYqhvKLAqn1GXAuyu6hDEGwJpte75qQHK0Nq5g1enUbKc8bwpNF-dt6G3SoqcwTmWtTOy9fmOifykLTi82G4lum0TxQVwBUGo__EMn_yBf58WWybQISaaSg/hnd-516_FULL_12232.mp4?stream=1
+MIFD042,https://www126.ff-01.com/token=Fs12kM1E194HfkEGG4-2aw/1609924639/218.102.0.0/108/5/75/cf5030087d55297ec63b2016d5855755-720p.mp4
+mifd042,https://www2.sbvideocdn.com/hls/,tysxfbv4zs66j6cdabcbthajgunxyxjmrve275zect2ta342ip7fw4pzpyta,.urlset/master.m3u8?xxx=123
