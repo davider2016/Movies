@@ -64,3 +64,9 @@ Kane 005,https://str10.vidoza.net/nvl4wyymvieeieno3xdb7bf6o4bky3pu6djdrls5owocou
 Club 488,https://www1413.ff-03.com/token=FVdtveJYburZABK9ZLUQ8A/1609928740/218.102.0.0/22/d/79/1223ce80ef23c311f7e85ef4bfd3179d-720p.mp4
 Club 488,https://hls3.gslb.ru/hls/Cen/CLUB-488.mp4/index.m3u8?token=NPaSKGzK2LPVHYxwbUG3Cw&ts=1609921447
  
+吉田枫,#genre#
+SDNM 163A,https://www1168.ff-03.com/token=CvfAGQhCvxzlsTtE09RNBw/1609929487/218.102.0.0/6/e/b5/d79ae84aca45e263f7567879deb3ab5e-720p.mp4
+SDNM 163B,https://www279.ff-01.com/token=cacIuDs94v4I1G9wrAMyCA/1609929695/218.102.0.0/109/2/77/181ab3521ae4d6efe6faa48618571772-720p.mp4
+
+
+
